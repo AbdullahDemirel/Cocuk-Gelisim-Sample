@@ -1,0 +1,8 @@
+.dart_tool/
+.idea/
+build/
+*.jks
+*.keystore
+key.properties
+.env
+google-services.json
